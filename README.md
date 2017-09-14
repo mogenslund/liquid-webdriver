@@ -17,7 +17,7 @@ To run on mac you might need to replace the chromedriver with the Mac one from h
     https://chromedriver.storage.googleapis.com/index.html?path=2.32/
 
 # Video
-Watch the video below to se it in action.
+Watch the video below to see it in action.
 
 [<img src="liquidwebdriver.png">](https://drive.google.com/file/d/0B5Au3PxHCmgBTXhqZ1pfMnNIZ2c/view?usp=sharing)
 
